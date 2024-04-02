@@ -1,4 +1,4 @@
-text,label,split
+﻿text,label,split
 what expression would i use to say i love you if i were an italian,61,train
 "can you tell me how to say 'i do not speak much spanish', in spanish",61,train
 "what is the equivalent of, 'life is good' in french",61,train
@@ -454,7 +454,7 @@ can you tell me life's meaning,22,train
 what's the meaning of my life,22,train
 what is the underlying purpose to life,22,train
 what do you think about the meaning of life,22,train
-what is life’s meaning,22,train
+what is lifeâ€™s meaning,22,train
 help me figure out the meaning of life,22,train
 "would you tell me the meaning of life, please",22,train
 "could you tell me the meaning of life, please",22,train
@@ -1163,7 +1163,7 @@ how can i adjust the spoken language,29,train
 answer me in french,29,train
 please respond in latin from now on,29,train
 talk to me in italian,29,train
-let’s chat using spanish,29,train
+letâ€™s chat using spanish,29,train
 i need the language set to swahili,29,train
 change the language you're using to american english,29,train
 switch the language setting over to german,29,train
@@ -2665,11 +2665,11 @@ will you please confirm my reservation for march 11 at 6:30 pm,85,train
 i would like you to confirm my reservation for next saturday at 11 am,85,train
 i need you to confirm my reservation for tomorrow at 3 pm,85,train
 check to confirm my reservation for february 22 at noon,85,train
-i would like to try and confirm that i have a reservation at houlihan’s for mike,85,train
+i would like to try and confirm that i have a reservation at houlihanâ€™s for mike,85,train
 i would like to try and confirm that i have a reservation at the seven dwarves for peter,85,train
 i would like to try and confirm that i have a reservation at hu hot for paulie,85,train
 i would like to try and confirm that i have a reservation at macaroni grill for saul,85,train
-i would like to try and confirm that i have a reservation at chili’s for melinda,85,train
+i would like to try and confirm that i have a reservation at chiliâ€™s for melinda,85,train
 i would like to try and confirm that i have a reservation at macaroni grill for silva,85,train
 i would like to try and confirm that i have a reservation at kelly's for moreno,85,train
 i would like to try and confirm that i have a reservation at la palapa for bolding,85,train
@@ -3249,7 +3249,7 @@ what timezone is miami in,66,train
 whats the timezone for modesto,66,train
 what timezone is sacromento in,66,train
 whats the timezone for san fransico,66,train
-"if i’m in japan, what time zone am i in",66,train
+"if iâ€™m in japan, what time zone am i in",66,train
 tell me what time zone portugal uses,66,train
 nigeria is in which time zone,66,train
 the time zone for brazil is what,66,train
@@ -4297,8 +4297,8 @@ i need to figure out what to do about lost luggage,113,train
 who do i go to to find lost luggage,113,train
 who do i complain to about my luggage not arriving at the airport,113,train
 can you help me find my luggage it was lost on delta flight abc123 from houston,113,train
-i need my luggage that your airline lost it was flight abc123 and now it’s suddenly missing,113,train
-my luggage was on delta flight abc123 out of houston and now i can’t find it,113,train
+i need my luggage that your airline lost it was flight abc123 and now itâ€™s suddenly missing,113,train
+my luggage was on delta flight abc123 out of houston and now i canâ€™t find it,113,train
 i didn't hear you please repeat,13,train
 please repeat,13,train
 i want you to repeat that,13,train
@@ -4415,7 +4415,7 @@ tell me my car's gas mileage please,142,train
 what is the gas mileage for the car that i drive,142,train
 how many miles can i drive on 1 gallon of gas,142,train
 how many miles does my car get per gallon,142,train
-what’s my gas mileage,142,train
+whatâ€™s my gas mileage,142,train
 retrieve my current mpg on my car,142,train
 tell me the gas mileage on my car,142,train
 tell me my miles per gallon on my car,142,train
@@ -4614,7 +4614,7 @@ yes that is right,107,train
 that is a yes,107,train
 that seems true,107,train
 positive,107,train
-true,107,train
+TRUE,107,train
 very true,107,train
 that will be true,107,train
 that appears true,107,train
@@ -5388,10 +5388,10 @@ no that is wrong,30,train
 that is false,30,train
 negative,30,train
 what you just said is wrong,30,train
-that’s actually wrong,30,train
-that’s not correct,30,train
-that’s incorrect,30,train
-are you sure i don’t think that’s correct,30,train
+thatâ€™s actually wrong,30,train
+thatâ€™s not correct,30,train
+thatâ€™s incorrect,30,train
+are you sure i donâ€™t think thatâ€™s correct,30,train
 that'd be a no,30,train
 nada,30,train
 the answer is no,30,train
@@ -5893,7 +5893,7 @@ what is 3 to the 6th power,138,train
 what is 63 percent of 145,138,train
 can you calculate 18 divided by 45,138,train
 what is the square root of 104,138,train
-what’s the answer to 5-6=,138,train
+whatâ€™s the answer to 5-6=,138,train
 what is the sum of 8 + 3,138,train
 please provide the square root of 36,138,train
 what does 6 x 1 equal,138,train
@@ -9658,8 +9658,8 @@ bye for now,114,train
 "thanks, bye",114,train
 i have to get going,114,train
 talk to you later!,114,train
-i’ll be leaving now,114,train
-i’m leaving-goodbye!,114,train
+iâ€™ll be leaving now,114,train
+iâ€™m leaving-goodbye!,114,train
 thanks for talking to me,114,train
 it was really nice to be able to chat with you,114,train
 it was good to talk to you today,114,train
@@ -10238,7 +10238,7 @@ what is gumbo made of,112,train
 what ingredients do i need to bake a cake,112,train
 i want to cook a quick breakfast what ingredients do i need,112,train
 what ingredients are needed for shrimp cocktail,112,train
-i’m making spaghetti what ingredients do i need,112,train
+iâ€™m making spaghetti what ingredients do i need,112,train
 i want to make a meat stew what ingredients do i need,112,train
 what goes in broccoli cheddar soup,112,train
 show me the recipe for broccoli cheddar soup,112,train
@@ -12710,7 +12710,7 @@ can you text marissa and tell them to stop calling me,26,train
 can you text arthur and tell them im almost there,26,train
 can you text kayla and tell them im running late,26,train
 text chris and ask what time he will be home,26,train
-send a text and tell chris i’m not working today,26,train
+send a text and tell chris iâ€™m not working today,26,train
 text message chris and say i love you,26,train
 send chris a text message that says stop for milk on your way home,26,train
 send a text message to chris and ask what he wants to eat for dinner,26,train
@@ -13100,10 +13100,10 @@ tell me how to redeem my credit card points,6,train
 how do i obtain the cash for the rewards on my hy-vee card,6,train
 i want to cash out my credit card points,6,train
 can i get some music by three six mafia in here,106,train
-what does x’s music sound like,106,train
+what does xâ€™s music sound like,106,train
 may i hear some music by fleet foxes,106,train
 can i hear some music by cloud control,106,train
-can x’s music be played,106,train
+can xâ€™s music be played,106,train
 play some music for me,106,train
 i'd like to hear my workout playlist,106,train
 put on my jam session playlist please,106,train
@@ -13856,10 +13856,10 @@ can you tell me a joke about politicians,36,train
 tell me a joke about cars,36,train
 can you tell me something funny,36,train
 do you know any good jokes about lawyers,36,train
-what’s your favorite funny joke,36,train
+whatâ€™s your favorite funny joke,36,train
 make me laugh with a funny joke,36,train
 what funny joke do you know,36,train
-i want to hear a joke that’s funny,36,train
+i want to hear a joke thatâ€™s funny,36,train
 tell me a dirty joke,36,train
 tell me a non-offensive joke,36,train
 i would like to hear a funny joke,36,train
@@ -15687,7 +15687,7 @@ can you tell me what time it is in dallas,4,valid
 what time is it in dallas,4,valid
 tell time for another city: dallas,4,valid
 what time is it right now at home,4,valid
-what’s the time in new york,4,valid
+whatâ€™s the time in new york,4,valid
 tell me the time in california,4,valid
 tell me the time in las vegas,4,valid
 what is the time is central time zone,4,valid
@@ -16655,7 +16655,7 @@ please let's do it,107,valid
 yes please,107,valid
 can we please,107,valid
 "yes, please",107,valid
-10-4,107,valid
+4-Oct,107,valid
 ya,107,valid
 yup,107,valid
 great,107,valid
@@ -16853,7 +16853,7 @@ that's wrong,30,valid
 i'd say no,30,valid
 the statement is false,30,valid
 that's false,30,valid
-false,30,valid
+FALSE,30,valid
 it is no,30,valid
 it is false,30,valid
 it is very much false,30,valid
@@ -17200,7 +17200,7 @@ don't be connected to my phone anymore,130,valid
 disconnect from my device please,130,valid
 "alexa, connect to the phone now",130,valid
 thank you ever so much for that!,124,valid
-you’re the best thanks so much!,124,valid
+youâ€™re the best thanks so much!,124,valid
 thanks for helping,124,valid
 i am grateful for the help,124,valid
 thank you for the heip,124,valid
@@ -17638,10 +17638,10 @@ my dog swallowed my credit card and i need a new one,87,valid
 i want to report a damaged card that my cat shredded with its claws,87,valid
 i need to replace a card that my daughter spilled juice on,87,valid
 i'm unable to use my card because it's been ruined,87,valid
-i can't use my card because it’s damaged badly,87,valid
+i can't use my card because itâ€™s damaged badly,87,valid
 i cannot use my card cuz it's damaged,87,valid
-i can't use my card because it’s messed up,87,valid
-i can't use my card because it’s broken,87,valid
+i can't use my card because itâ€™s messed up,87,valid
+i can't use my card because itâ€™s broken,87,valid
 i can't use my card because i damaged it,87,valid
 who should i talk to about the fact that i inadvertently split my card almost in half,87,valid
 i accidentally deactivated the magnetic stripe on my visa debit card and i need to report it,87,valid
